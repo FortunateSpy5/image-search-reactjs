@@ -1,0 +1,1 @@
+{"version":3,"sources":["ImageCard.css","ImageList.css"],"names":[],"mappings":"AAAA,IACE,cACF,CCFA,YACE,YAAa,CACb,wDAA2D,CAC3D,kBACF","file":"main.73e43168.chunk.css","sourcesContent":["img {\r\n  max-width: 100%;\r\n}",".image-list {\r\n  display: grid;\r\n  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));\r\n  grid-auto-rows: 1px;\r\n}\r\n"]}
